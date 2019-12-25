@@ -1,4 +1,4 @@
-# RestApi introduction
+# RestApi
 
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/2/1.png)
 
