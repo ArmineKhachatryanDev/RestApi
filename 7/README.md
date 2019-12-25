@@ -10,6 +10,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/2.png)
 
 
@@ -21,7 +35,30 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/3.png)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -43,6 +80,18 @@
 
 
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/5.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -75,6 +124,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/8.png)
 
 
@@ -95,6 +158,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/10.png)
 
 
@@ -106,7 +181,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/11.png)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -138,6 +233,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/14.png)
 
 
@@ -150,6 +255,13 @@
 
 
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/15.png)
+
+
+
+
+
+
+
 
 
 
@@ -181,7 +293,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/18.png)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -201,7 +331,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/20.png)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -221,7 +370,20 @@
 
 
 
+
+
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/22.png)
+
+
+
+
+
+
 
 
 
@@ -244,7 +406,19 @@
 
 
 
+
+
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/7/24.png)
+
+
+
+
+
 
 
 
