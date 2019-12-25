@@ -4,7 +4,17 @@
 
 
 
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/5/2.png)
+
+
+
+
+
 
 
 
@@ -18,7 +28,17 @@
 
 
 
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/5/4.png)
+
+
+
+
+
 
 
 
@@ -32,7 +52,17 @@
 
 
 
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/5/6.png)
+
+
+
+
+
 
 
 
@@ -46,6 +76,11 @@
 
 
 
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/5/8.png)
 
 
@@ -53,4 +88,14 @@
 
 
 
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/5/9.png)
+
+
+
+
+
