@@ -1,4 +1,9 @@
-# RestApi introduction
+# Single(Multi) Threaded Aplication Process
+
+# Thread Scheduling
+
+
+    
 ![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/1.png)
 
 
