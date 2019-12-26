@@ -1,0 +1,101 @@
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/6_Query Parameters 2/1.png)
+
+
+
+
+
+
+
+
+
+
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/6_Query Parameters 2/2.png)
+
+
+
+
+
+
+
+
+
+
+
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/6_Query Parameters 2/3.png)
+
+
+
+
+
+
+
+
+
+
+
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/6_Query Parameters 2/4.png)
+
+
+
+
+
+
+
+
+
+
+
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/6_Query Parameters 2/5.png)
+
+
+
+
+
+
+
+
+
+
+
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/6_Query Parameters 2/6.png)
+
+
+
+
+
+
+
+
+
+
+
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/6_Query Parameters 2/7.png)
+
+
+
+
+
+
+
+
+
+
+
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/6_Query Parameters 2/8.png)
+
+
+
+
+
+
+
+
+
+
+
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/6_Query Parameters 2/9.png)
+
+
+
+
+
