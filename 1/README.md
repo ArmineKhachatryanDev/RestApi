@@ -1,416 +1,56 @@
-# Single(Multi) Threaded Aplication Process
+# RestApi introduction
 
-# Thread Scheduling
 
 
-    
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/1.png)
 
 
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/1/1.png)
 
 
 
 
 
 
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/1/2.png)
 
 
 
 
 
 
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/2.png)
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/1/3.png)
 
 
 
 
 
 
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/1/4.png)
 
 
 
 
 
 
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/1/5.png)
 
 
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/3.png)
 
 
 
 
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/1/6.png)
 
 
 
 
 
 
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/1/7.png)
 
 
 
 
 
 
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/4.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/5.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/6.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/7.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/8.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/9.png)
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/1.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/2.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/3.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/4.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/5.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/6.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/7.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/8.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/9.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/10.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/11.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/12.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/13.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/14.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/15.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/16.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/17.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/18.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part2/19.png)
-
-
-
+![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/1/8.png)
