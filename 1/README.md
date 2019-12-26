@@ -32,7 +32,17 @@
 
 
 
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/1/5.png)
+
+
+
+
+
 
 
 
@@ -46,6 +56,11 @@
 
 
 
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/1/7.png)
 
 
@@ -53,4 +68,19 @@
 
 
 
+
+
+
+
+
 ![alt text](https://github.com/ArmineKhachatryanDev/RestApi/blob/master/1/8.png)
+
+
+
+
+
+
+
+
+
+
